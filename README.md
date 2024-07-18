@@ -1,2 +1,2 @@
 # responsive-token
-Small Assignment
+Small Webdesign Assignment
